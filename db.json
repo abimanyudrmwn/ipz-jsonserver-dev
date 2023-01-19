@@ -8,6 +8,10 @@
   ],
   "achievement": [
     {"id":1, "title":"🏃 Catch me if you can", "desc":"All agility skills reached level 5","reward":"2000 Rupiahs" },
-    {"id":2, "title":"🥷 You'll never see me", "desc":"Max out all agility skills","reward":"5000 Rupiahs + Antique Boots" }
+    {"id":2, "title":"🥷 You'll never see me", "desc":"Max out all agility skills","reward":"5000 Rupiahs + Antique Boots" },
+    {"id":3, "title":"🪓  I'm a Chopper", "desc":"Max out Axe skill","reward":"Antique Axe + 1000 Rupiahs" },
+    {"id":4, "title":"🔨  Two is better than one", "desc":"Max out Long Blunt skill","reward":"Maul + 1000 Rupiahs" },
+    {"id":5, "title":"🪠  Use everything I could", "desc":"Max out Short Blunt skill","reward":"Antique Forge" }
+    
   ]
 }
