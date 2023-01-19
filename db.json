@@ -5,5 +5,9 @@
     { "id":3, "title" : "Honda Supra", "price": "50.000",  "details": "Lambat", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"},
     { "id":4, "title" : "Honda Beat", "price": "60.000",  "details": "Lambat", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"},
     { "id":5, "title" : "Honda Beat Street", "price": "70.000",  "details": "Lambat", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"}
+  ],
+  "achievement": [
+    {"id":1, "title":"🏃 Catch me if you can", "desc":"All agility skills reached level 5","reward":"2000 Rupiahs" },
+    {"id":2, "title":"🥷 You'll never see me", "desc":"Max out all agility skills","reward":"5000 Rupiahs + Antique Boots" }
   ]
 }
