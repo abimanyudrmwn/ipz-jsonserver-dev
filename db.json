@@ -1,9 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "vehicles": [
+    { "id":1, "title" : "Honda Civic", "price": "70.000",  "details": "Kencang", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"},
+    { "id":2, "title" : "Honda Brio", "price": "80.000",  "details": "Sedang", "type": "Standard",  "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"},
+    { "id":3, "title" : "Honda Supra", "price": "50.000",  "details": "Lambat", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"},
+    { "id":4, "title" : "Honda Beat", "price": "60.000",  "details": "Lambat", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"},
+    { "id":5, "title" : "Honda Beat Street", "price": "70.000",  "details": "Lambat", "type": "Standard", "img": "https://res.cloudinary.com/belanga/image/upload/v1674049900/ipz/pic-06_sjbslf.jpg"}
+  ]
 }
